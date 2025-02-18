@@ -1,6 +1,5 @@
 # 👨‍💻 Full-Stack Developer | Java | Spring Boot | SQL | Web Technologies
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Your+Banner+Image)
 
 ## 🌟 About Me
 
@@ -63,7 +62,7 @@ I enjoy designing scalable applications and solving complex technical challenges
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=monikasb16&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monikasb16&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=monikasb16&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
