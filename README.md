@@ -21,7 +21,7 @@ Optimizing SQL databases for performance
 🖥️ Operating Systems:
 <p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </p>
 🚀 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monikasb16&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=monikasb16&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikasb16&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" /> </p>
 📫 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/monika-chakane-java-developer/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/monikasb16" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="monikachakane@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 🌐 Profile Views
